@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="start">Start</string>
+    <string name="next">Next</string>
+    <string name="finish">Finish</string>
+    <string name="Answer3correct">Answer 3 was Correct</string>
+    <string name="Answer2correct">Answer 2 was Correct</string>
+    <string name="Answer1correct">Answer 1 was Correct</string>
+    <string name="confirm">Confirm</string>
+    <string name="score_0">Score: 0</string>
+    <string name="question_1_x">Question 1/X</string>
+    <string name="this_is_question_nthis_is_question">This is Question \nThis is Question</string>
+    <string name="option_1">Option 1</string>
+    <string name="option_2">Option 2</string>
+    <string name="submit">Submit</string>
+    <string name="right_answer">Show right answer</string>
+</resources>
